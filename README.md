@@ -11,6 +11,7 @@ This project demonstrates how to fine-tune and deploy the Phi-2 model on SageMak
 1. Open a JupyterLab notebook within the Amazon Sagemaker Studio.
 2. Clone this repository.
 4. Open and follow the instructions in the `train-evaluate-llms-2024-trl-phi2.ipynb` notebook to fine-tune the Phi-2 model with QLoRA (Efficient Fine-tuning of Quantized LLMs).
+4. If you encounter any IAM access-related errors, ensure that the SageMaker execution role associated with your Studio instance has the necessary permissions to access the required AWS services.
 
 ## Deployment
 
