@@ -15,7 +15,7 @@ This project demonstrates how to fine-tune and deploy the Phi-2 model on SageMak
 
 ## Deployment
 
-After fine-tuning, the notebook guides you through deploying the tuned model as a SageMaker endpoint. You will also deploy the base Phi-2 model as a SageMaker endpoint to compare the original model with the fine-tuned version.
+After fine-tuning, the notebook guides you through deploying the tuned model as a SageMaker endpoint. You will also deploy the base Phi-2 model as a SageMaker endpoint and compare the original model with the fine-tuned version.
 
 ## Security
 
